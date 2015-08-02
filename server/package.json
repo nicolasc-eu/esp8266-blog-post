@@ -1,0 +1,25 @@
+{
+  "name": "esp8266-blog-post-server",
+  "version": "1.0.0",
+  "description": "Simple server for ESP8266 blog post example",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolasc-eu/esp8266-blog-post.git"
+  },
+  "author": "Nicolas C.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasc-eu/esp8266-blog-post/issues"
+  },
+  "homepage": "https://github.com/nicolasc-eu/esp8266-blog-post"
+}

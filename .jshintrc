@@ -1,0 +1,12 @@
+{
+    "curly"         : false,
+    "strict"        : false,
+    "trailing"      : true,
+    "indent"        : 4,
+    "eqeqeq"        : false,
+    "immed"         : true,
+    "latedef"       : true,
+    "newcap"        : true,
+    "noempty"       : true,
+    "esnext"        : true
+}
